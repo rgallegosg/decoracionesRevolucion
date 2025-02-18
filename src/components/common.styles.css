@@ -1,0 +1,11 @@
+@media screen and (max-width: 718px) {
+    .logo-nav-bar {
+        width: 30%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .logo-nav-bar {
+        width: 35%;
+    }
+}

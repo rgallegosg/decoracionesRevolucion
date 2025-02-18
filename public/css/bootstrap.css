@@ -6754,4 +6754,14 @@ button.close {
     display: none !important;
   }
 }
+
+.logo-nav-bar {
+  width: 30%;
+}
+
+@media screen and (max-width: 400px) {
+  .logo-nav-bar {
+      width: 15%;
+  }
+}
 /*# sourceMappingURL=bootstrap.css.map */
