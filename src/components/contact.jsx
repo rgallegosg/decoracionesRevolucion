@@ -1,5 +1,5 @@
 import { useState } from "react";
-import emailjs from "emailjs-com";
+import emailjs from '@emailjs/browser';
 import React from "react";
 
 const initialState = {
@@ -18,13 +18,16 @@ export const Contact = (props) => {
   
   
   const handleSubmit = (e) => {
+    const serviceId = 'service_9ri23b8';
+    const templateId = 'template_hkweob7';
+    const publicKey = 'olmy_bqClBdM735Tu';
     e.preventDefault();
     console.log(name, email, message);
     
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm(serviceId, templateId, e.target, publicKey)
       .then(
         (result) => {
           console.log(result.text);
@@ -42,7 +45,7 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Contactanos</h2>
+                <h2>Cont&aacute;ctanos</h2>
                 <p>
                   Por favor llene el formulario que se encuentra a cotinuación para enviarnos un email y nosotros nos pondremos en contacto lo antes posible.
                 </p>

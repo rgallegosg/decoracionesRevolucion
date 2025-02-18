@@ -1,11 +1,13 @@
 import React from "react";
-//import logoDR from '../../public/img/decoracionesRevolucionIcon.png';
+import logoDR from '../assets/nav-logo.png';
+import './common.styles.css';
 
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
         <div className="navbar-header">
+          <img src={logoDR} className="logo-nav-bar"></img>
           <button
             type="button"
             className="navbar-toggle collapsed"
@@ -45,7 +47,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                Contactanos
+                Cont&aacute;ctanos
               </a>
             </li>
           </ul>
