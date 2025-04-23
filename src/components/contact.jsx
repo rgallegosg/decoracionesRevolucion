@@ -95,7 +95,7 @@ export const Contact = (props) => {
                 </div>
                 <div id="success"></div>
                 <button type="submit" className="btn btn-custom btn-lg">
-                  Envair Mensaje
+                  Enviar Mensaje
                 </button>
               </form>
             </div>

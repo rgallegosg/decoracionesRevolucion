@@ -1,0 +1,49 @@
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="75" cy="75" r="75" fill="#944087"/>
+<path d="M68.1538 27H25.8462C23.722 27 22 28.722 22 30.8462V73.1538C22 75.278 23.722 77 25.8462 77H68.1538C70.278 77 72 75.278 72 73.1538V30.8462C72 28.722 70.278 27 68.1538 27Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M47 27V77" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 52H72" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M47 67H22" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M47 72H22" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M47 62L22 62" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M47 57L22 57" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 52V27" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27 52V27" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37 52V27" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M42 52V27" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57 77V52" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M52 77V52" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M62 77V52" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M67 77V52" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 42L47 42" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 47L47 47" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 37L47 37" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72 32L47 32" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M121.154 75H78.8462C76.722 75 75 76.722 75 78.8462V121.154C75 123.278 76.722 125 78.8462 125H121.154C123.278 125 125 123.278 125 121.154V78.8462C125 76.722 123.278 75 121.154 75Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 80H75" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M96 80V75" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 80V75" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M105 85V75" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M110 90V75" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M115 95V75" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M120 100V75" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M105 85H75" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 85V80" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M115 90L75 90" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M120 95L75 95" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M125 100L75 100" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M105 90V85" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 120L125 120" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M104 120V125" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 120V125" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M95 115V125" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M90 110V125" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M85 105V125" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80 100V125" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M95 115L125 115" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 115V120" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M85 110L125 110" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80 105L125 105" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M75 100L125 100" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M95 110V115" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
