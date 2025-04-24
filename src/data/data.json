@@ -17,34 +17,32 @@
   },
   "Gallery": [
     {
+      "title": "Construcción",
+      "smallImage": "img/portfolio/contruccion-decoraciones-revolucion.jpg"
+    },
+    {
       "title": "Cocinas y Closets",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "smallImage": "img/portfolio/cocinas-decoraciones-revolucion.jpg"
     },
     {
       "title": "Persinas y Cortinas",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "smallImage": "img/portfolio/persianas-decoraciones-revolucion.jpg"
     },
     {
       "title": "Cancelería",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "smallImage": "img/portfolio/canceleria-decoraciones-revolucion.jpg"
     },
     {
       "title": "Pasto Sintetio y Follaje Artificial",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "smallImage": "img/portfolio/pasto-sintetico-decoraciones-revolucion.jpg"
     },
     {
       "title": "Pisos Laminados, SPC e Igeniería",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "smallImage": "img/portfolio/pisos-decoraciones-revolucion.jpg"
     },
     {
       "title": "Decoraciones en General",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "smallImage": "img/portfolio/decoraciones-decoraciones-revolucion.jpg"
     }
   ],
   "Services": [
@@ -76,6 +74,11 @@
     {
       "icon": "fa fa-pie-chart",
       "name": "Decoracion en General",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Lambrin y Placas tipo Marmol",
       "text": ""
     }
   ],
