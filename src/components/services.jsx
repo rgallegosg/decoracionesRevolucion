@@ -1,6 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
+import { IconsServices } from '../data/icons';
 
 export const Services = (props) => {
+
+  const [icons, setIcons] = useState(IconsServices);
+
   return (
     <div id="services" className="text-center">
       <div className="container">
@@ -11,11 +15,11 @@ export const Services = (props) => {
           </p>
         </div>
         <div className="row">
-          {props.data
-            ? props.data.map((d, i) => (
+          {icons
+            ? icons.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-4">
                   {" "}
-                  <i className={d.icon}></i>
+                  <img src={d.icon} alt={d.text}/>
                   <div className="service-desc">
                     <h3>{d.name}</h3>
                     <p>{d.text}</p>
