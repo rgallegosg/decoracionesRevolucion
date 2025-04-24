@@ -6764,4 +6764,9 @@ button.close {
       width: 15%;
   }
 }
+@media screen and (max-width: 575px) {
+  .logo-nav-bar {
+      width: 15%;
+  }
+}
 /*# sourceMappingURL=bootstrap.css.map */
